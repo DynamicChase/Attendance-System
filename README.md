@@ -1,6 +1,4 @@
-Great! It looks like you've developed a face recognition attendance system that captures and stores face data for later recognition using K-Nearest Neighbors (KNN). Below is a suggested description and usage guide for your GitHub repository that reflects the features and functionality of your project.
 
-## Repository Description
 
 ### Attendance System with Face Recognition
 
